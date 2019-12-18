@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StripHtmlTags", "StripHtmlTags\StripHtmlTags.csproj", "{F0CA6BB2-055B-4C13-9006-487EB979729D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0CA6BB2-055B-4C13-9006-487EB979729D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0CA6BB2-055B-4C13-9006-487EB979729D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0CA6BB2-055B-4C13-9006-487EB979729D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0CA6BB2-055B-4C13-9006-487EB979729D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A464DBD1-C91F-421B-A005-21BB91A7F438}
+	EndGlobalSection
+EndGlobal
